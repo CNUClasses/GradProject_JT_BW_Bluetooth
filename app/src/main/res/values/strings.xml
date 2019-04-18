@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="listen_to_me">Listen to me</string>
+    <string name="stop">Stop</string>
+    <string name="play_music">Play Music</string>
+    <string name="speak_to_me">Speak to me</string>
+    <string name="pair">Pair</string>
+    <string name="rename">Rename</string>
+    <string name="repeat_that_back">Repeat that back</string>
+    <string name="toggle_buttons">Toggle buttons</string>
+</resources>
